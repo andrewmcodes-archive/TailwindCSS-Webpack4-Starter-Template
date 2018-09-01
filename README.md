@@ -4,36 +4,47 @@ This is an example of a Webpack 4 setup for using [Tailwind CSS](https://tailwin
 
 To get started, clone the project and install the dependencies:
 
+## NPM and Yarn
+
+Install the dependencies
+
 ```bash
-# Using npm
+# NPM
 npm install
 
-# Using Yarn
+# Yarn
 yarn
 ```
 
 To build for development
 
 ```bash
+# NPM
 npm build:dev
+
+#Yarn
+yarn build:dev
 ```
 
 To build for production
 
 ```bash
+# NPM
 npm build
+
+# Yarn
+yarn build
 ```
 
 To watch for changes
 
 ```bash
+# NPM
 npm run start
+
+# Yarn
+yarn start
 ```
-
-## TODO
-
-- Add documentation for yarn
-- Figure out what the other important webpack commands are
 
 ## Contributing
 
