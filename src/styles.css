@@ -1,15 +1,15 @@
 @tailwind preflight;
-
 @tailwind components;
-
 @tailwind utilities;
 
 .main-container {
   @apply min-h-screen flex flex-col items-center justify-center text-blue-dark font-sans;
 }
+
 .title {
   @apply text-5xl mb-4;
 }
+
 .subtitle {
   @apply text-3xl;
 }
