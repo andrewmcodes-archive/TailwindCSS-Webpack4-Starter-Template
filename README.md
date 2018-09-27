@@ -1,6 +1,7 @@
 # Tailwind CSS Webpack 4 Starter Project
 
-![Tailwind Version](https://img.shields.io/badge/TailwindCSS-0.6.6-brightgreen.svg)
+[![Build Status](https://travis-ci.org/andrewmcodes/TailwindCSS-Webpack4-Starter-Template.svg?branch=master)](https://travis-ci.org/andrewmcodes/TailwindCSS-Webpack4-Starter-Template)
+![Tailwind Version](https://img.shields.io/badge/TailwindCSS-0.6.6-orange.svg)
 ![Webpack Version](https://img.shields.io/badge/Webpack-4.17.0-blue.svg)
 
 This is an example of a Webpack 4 setup for using [Tailwind CSS](https://tailwindcss.com). The example app includes hot module replacement, PurgeCSS, Autoprefixer, and more!
