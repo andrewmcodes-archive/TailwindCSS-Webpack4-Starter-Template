@@ -1,6 +1,6 @@
 # Tailwind CSS Webpack 4 Starter Project
 
-This is an example of a Webpack 4 setup for using [Tailwind CSS](https://tailwindcss.com). This is also my attempt to further my understanding of Webpack 4.
+This is an example of a Webpack 4 setup for using [Tailwind CSS](https://tailwindcss.com). The example app includes hot module replacement, PurgeCSS, Autoprefixer, and more!
 
 To get started, clone the project and install the dependencies:
 
